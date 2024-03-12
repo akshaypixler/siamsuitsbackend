@@ -1,0 +1,4 @@
+../backupAks
+/.cache
+/.env
+./node_modules
